@@ -1,0 +1,7 @@
+streamlit
+PyPDF2
+pdfminer
+openai
+pdfminer.six
+spacy
+watchdog
